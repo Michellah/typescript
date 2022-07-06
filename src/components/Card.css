@@ -1,0 +1,19 @@
+.card{
+    border: solid 1px black;
+    width: 29.5vw;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+
+}
+.body{
+    border:solid 0;
+    border-radius: 70px;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(197, 132, 132);
+    color: white;
+}
+.listStyle{
+    width: 30px;
+}

@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: cursive;
 }
 
 .App-logo {
@@ -35,4 +36,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#titre{
+  background-color: rgb(197, 132, 132);
+  color: white;
+  margin-top: 0;
+  height: 5vw;
+  padding: 20px;
+  font-family: cursive;
 }
